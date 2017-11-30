@@ -1,0 +1,14 @@
+nav a:link, a:visited {
+    background-color: #00ced6;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Verdana Header";
+    font-size: 50px
+}
+
+a:hover, a:active {
+    background-color:  #008080;
+}
